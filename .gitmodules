@@ -1,0 +1,4 @@
+[submodule "gpt3"]
+	path = gpt3
+	url = git@github.com:tamia-team/team-tamia-stack-circle-gpt3.git
+	branch = dev
