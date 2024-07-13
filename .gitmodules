@@ -2,3 +2,7 @@
 	path = gpt3
 	url = git@github.com:tamia-team/team-tamia-stack-circle-gpt3.git
 	branch = dev
+[submodule "services"]
+	path = services
+	url = git@github.com:tamia-team/team-tamia-stack-circle-services.git
+	branch = dev
