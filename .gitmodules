@@ -1,4 +1,4 @@
 [submodule "services"]
 	path = services
-	url = git@github.com:tamia-team/team-tamia-stack-circle-services.git
+	url = git@github.com:tamia-team/team-hotep-stack-circle-services.git
 	branch = dev
